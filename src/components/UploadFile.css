@@ -1,0 +1,18 @@
+.uploadFile {
+    display: flex;
+    align-items: center;
+}
+.uploadFile button {
+    width: 50%;
+    background-color: #535bf2;
+    color: white;
+}
+
+.uploadFile button :hover {
+    border-color: #646cff;
+    background-color: #fff;
+}
+
+.uploadFile input {
+    width: 100%;
+}
